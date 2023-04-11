@@ -1,0 +1,23 @@
+REGRESSION
+==========
+IT IS A PREDICTIVE ANALYSIS TOOL WHICH PREDICTS THE BEST FIT LINE TO YOUR CONTINIUOS DATA.
+ASSUMPTIONS :
+1. YOUR INDEPENDENT AND DEPENDENT VARIABLE SHOULD HAVE LINEAR RELATIONSHIP AMONG THEMSELF.
+2. ERROR ARE I.I.D. RANDOM VARIABLE WHICH SHOULD BE NORMALLY DISTRIBUTED 
+3. VARIANCE OF Y AT EVERY VALUE OF X SHOULD BE SAME(HETEROSCEDACITY) 
+4. YOUR INDEPENDENT VARIABLE SHOULD NOT BE HIGHLY CORRILATED WITH EACH OTHER(MINIMAL MULTI-COLINIEARITY)
+*TERMS USED IN REGRESSIONS 
+1.CORRELATION
+A STATISTICAL MEASURE WHICH DETERMINE THE RELATIONSHIP BETWEEN TWO VARIABLES AND GIVES YOU THE DIRECTION OF THAT RELATIONSHIP
+2. R SQUARE(COEFFICIENTS OF DETERMINANT)
+IT DETERMINES THE STRENGHT OF DATA/ ACCURACY OF YOUR MODEL. 
+IT ASLO SHOWS BEST FIT LINE TO YOUR REGRESSION EQUATION
+3. MULTICOLINIEARITY 
+IT OCCURS WHEN YOUR INDEPENDENT VARIABLES ARE HIGHLY WITH EACH OTHERS.
+TO DEAL WITH IT WE USE SCALING METHODS LIKE STANDARDIZATION OR NORMALISATIONS(MIN-MAX SCALER)
+4. VIF(VARIANCE INFLATION FACTORS)
+IT IS MEASURE TO CALCULATE MULTICOLINEARITY IN YOUR DATA
+5. DIFFERENCE BETWEEN R SQUARE AND ADJUSTED R SQUARE
+R SQUARE ASSUMES THAT EVERY SINGLE INDEPENDENT VARIABLE(X) EXPLAIN VARIATION IN DEPENDENT VARIABLE(Y) BUT
+ADJUSTED R SQUARE TELLS YOU THE % OF VARIATION WHICH CAUSED BY INDEPENDENT VARIABLE THAT AFFECTS DEPENDENT VARIABLE 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
